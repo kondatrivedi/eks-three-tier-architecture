@@ -62,7 +62,7 @@ web/           -> Frontend application
 
 ---
 
-##Deployment Steps:
+## Deployment Steps:
 
 1. Create EKS Cluster
 Create the AWS EKS cluster using eksctl.
@@ -80,7 +80,7 @@ kubectl apply -f .
 
 ---
 
-7. Verify Deployments
+## Verify Deployments
 
    
 kubectl get pods
@@ -91,10 +91,10 @@ kubectl get ingress
 
 ---
 
-##Screenshots
+## Screenshots
 Screenshots of cluster setup, running pods, services, and application UI will be added here.
 
-##Key Learnings
+## Key Learnings
 
 -Understanding Kubernetes architecture
 
